@@ -6,7 +6,7 @@ import numpy as np
 # DATA
 # --------------------------------------------------
 
-models = ["GPT", "Claude", "Grok", "Gemini"]
+models = ["GP", "Claude", "Grok", "Gemini"]
 
 bleu1 = [0.1584, 0.1569, 0.1481, 0.1307]
 bleu2 = [0.0290, 0.0228, 0.0170, 0.0153]
