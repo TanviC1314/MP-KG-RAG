@@ -27,7 +27,7 @@ width = 0.18
 plt.figure(figsize=(11, 6))
 
 bar1 = plt.bar(
-    x - 1.5 * width,
+    x - 1.51 * width,
     bleu1,
     width,
     label="BLEU-1"
